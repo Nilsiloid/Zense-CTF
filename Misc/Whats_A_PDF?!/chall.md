@@ -18,4 +18,4 @@ Flag format : ZENSE{...}
 ```
 
 Attachment : 
-[very_strange_document.pdf](https://github.com/Nilsiloid/Zense-MiniCTF/blob/main/Rev/Flag%20Extraction%3F%3F/chall.py)
+[very_strange_document.pdf](https://github.com/Nilsiloid/Zense-CTF/blob/main/Misc/Whats_A_PDF%3F!/very_strange_document.pdf)
