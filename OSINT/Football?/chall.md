@@ -1,6 +1,6 @@
 # Author
 
-[Nilay](https://github.com/Nilsiloid), [Vijay](https://github.com/vijay-jaisankar) and [Shreyas](https://github.com/Plague-Inc)
+[Nilay](https://github.com/Nilsiloid)
 
 ## Description
 
