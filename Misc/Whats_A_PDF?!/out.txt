@@ -1,0 +1,408 @@
+%PDF-1.
+1 0 obj
+<</Title (strange_document)
+/Producer (Skia/PDF m118 ZENSE {PDFS_AR3_UWOTM8_H3X} Renderer)>>
+endobj
+3 0 obj
+<</ca 1
+/BM /Normal>>
+endobj
+5 0 obj
+<</CA 1
+/ca 1
+/LC 0
+/LJ 0
+/LW 5.3333335
+/ML 10
+/SA true
+/BM /Normal>>
+endobj
+6 0 obj
+<</Type /XObject
+/Subtype /Image
+/Width 312
+/Height 43
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Filter /FlateDecode
+/Length 2946>> stream
+[wLT
+^+(E
+h\PD
+{C#A
+[[[///
+iggw
+Gtc0
+Tx:{
+zzzb
+0{LL
+[700p
+*;;;
+?~Da
+.$''
+>}:9E
+LJJB
+Ovv6
+jDDD
+mi'EEE
+Y3Hj
+X^U^
+(##Cg<E
+naa!xG
+RY<H<U
+!&=Y
+*,[*
+!W!;
+;Gee
+R%u1
+GJ6i
+X`.dJ
+Xn%m
+$C	O
++??_
+	{p$
+ivvvpp0
+Ugf=
+l_e=E
+W[[[
+#""T
+4>((H
+4]dd$
+Z*,?
+b12H
+ UKJJB
+111H6
+BHnn.
+;&C4@
+#b1|
+R^@y
+iiit
+J777
+/GNN
+endstream
+endobj
+7 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [305.45386 406.63086 385.50464 452.62695]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/watch?v=xvFZjo5PgG0)>>>>
+endobj
+8 0 obj
+<</Filter /FlateDecode
+/Length 763>> stream
+X]oS1
+SE;uU
+s!${
+#+Un3&
+BZR);
+R,j;u
+j!-Rp
+fxg9
+sL53
+t#3e
+|hj8
+BWT&
+"_Qx!
+oHNA
+[b<Qv;
+eb)vG
+endstream
+endobj
+2 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <</G3 3 0 R
+/G5 5 0 R>>
+/XObject <</X6 6 0 R>>
+/Font <</F4 4 0 R>>>>
+/MediaBox [0 0 596 842]
+/Annots [7 0 R]
+/Contents 8 0 R
+/StructParents 0
+/Parent 9 0 R>>
+endobj
+9 0 obj
+<</Type /Pages
+/Count 1
+/Kids [2 0 R]>>
+endobj
+10 0 obj
+<</Type /Catalog
+/Pages 9 0 R>>
+endobj
+11 0 obj
+<</Length1 32284
+/Filter /FlateDecode
+/Length 16837>> stream
+LfOf
+hd_L0
+DvYEP
+-i]Z
+0x\M
+KW,X
+/[0g
+?/]>o
+Y5g.
+ x6O
+8	bP
+p w!
+p\Fc{
+nMd!?
+SkS4
+H_'?
+#hiA
+	F\	
+T~hB=|
+s8LL
+k8DB
+qlb4
+]r/9@
+W<(&
+d1YI
+aO^O
+V!S(
+x'DM
+2EiRnW
+!L ud
+pX8B
+\?`:)!_
+"]$n
+0A<!M%
+@ 3!,
+Ailb 
+bcfL
+@Qmhls0
+2kJ=
+ez}('^
+wybAO
+E;u[
+3>{>.
+/,d"
+Ek;h(
+3XLk:
+]8<N
+CtK2
+Xa\*
+'&y1
+vV8[
+K:G9
+QANqb
+-2:0
+<{ 1
+ im!
+MZ_"
+yu>EGay
+Lr7d
+$#.Y
+5052+0
+D)Rr
+TMUUY
+:Z7m4
+NBnk@n
+Uzz}
+%g+K
+&)N%
+h<Gt#
+2+ce
+QCym
+5#r|
+Yk.g
+RlyX
+d f"~
+ (D,
+PEUeu7c
+hPEP
+pihs
+jR,F
+<]Wu]
+8L.W
+z5pi
+s,D0
+WA5C
+Xysd
+L:Y_h
+Dg@P190
+1DJIH
+r4w$
+2,!&K:
+D$M`
+('60'b
+0	KN
+I3YA
+0d04
+r(7/
+MU8ZUz
+UWuW
+#lRX
+8$Ws6D1
+H028
+lpeg%
+^I*]
+\(W&
+u	[^ae
+/_rx
+C7m~|
+}nyc
+d]7c
+^ys]l
+rVy/t^
+Y&L6
+!lNe1	'\
+r"v&z
+._(td
+6hT4
+s8-7
+l0m\
+[Eg1
+l1f=ofY
+X^aYz
+dCOr"|A
+w~.2 
++c~,
+!iyq
+)nI=
+?242
+V@+t
+6vqm
+,Q6k
+s/8qJe
+M>bVQC
+Q;lf
+,FQn\
+p~f4
+i8b8aP
+&+a	
+v1.v
+S<!R
+M#}a
+b9i)S
+aq'v
+'+hb
+)vLy2
+1uDl
+5RJH
+vbGc}uQ
+UJH"
+X%-T5e
+U^V?
+t292"
+mc=P
+dg,C
++#{7
+i[/sZLi
+:kc;e
+AS5E
+d]k/\2~
+**GZb
+\>bX
+#=]{
+vlBq
+=cQ|
+;^^E
+#.qd
+&Bi"7M
+^B4w
+t3efR
+C=?G	
+KZKh	{!
+"d;0
+ 7d6
+7hrT
+8n}A :
+N-:c
+1#_h
+<m<v
+ql+-
+=vGY4
+3uXr2=
+7\J.
+,u&g
+Aw z 
+b:{AS
+tEF)!?
+O_K7'O
+4{/@Z
+WZYN}iz:}nt:
+~kq29Ul
+!Nd+
+~h?)
+LZs|
+paP$
+UUEa
+l^an5
+c4su
+,e6di
+90`5
+$`KpbUU
+r+*q	=
+7nXK
+|O}@
+endstream
+endobj
+12 0 obj
+<</Type /FontDescriptor
+/FontName /AAAAAA+ArialMT
+/Flags 4
+/Ascent 905.27344
+/Descent -211.91406
+/StemV 45.898438
+/CapHeight 715.82031
+/ItalicAngle 0
+/FontBBox [-664.55078 -324.70703 2000 1005.85938]
+/FontFile2 11 0 R>>
+endobj
+13 0 obj
+<</Type /Font
+/FontDescriptor 12 0 R
+/BaseFont /AAAAAA+ArialMT
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo <</Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0>>
+/W [0 [750] 15 17 277.83203 36 54 666.99219 55 [610.83984] 68 72 556.15234 73 [277.83203 556.15234 556.15234 222.16797] 79 [222.16797 833.00781 556.15234 556.15234 0 0 333.00781] 87 [277.83203 556.15234] 90 [722.16797] 182 [222.16797]]
+/DW 500>>
+endobj
+14 0 obj
+<</Filter /FlateDecode
+/Length 301>> stream
+@U	!
+4K8H%
+endstream
+endobj
+4 0 obj
+<</Type /Font
+/Subtype /Type0
+/BaseFont /AAAAAA+ArialMT
+/Encoding /Identity-H
+/DescendantFonts [13 0 R]
+/ToUnicode 14 0 R>>
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000004371 00000 n 
+0000000107 00000 n 
+0000022707 00000 n 
+0000000144 00000 n 
+0000000229 00000 n 
+0000003342 00000 n 
+0000003538 00000 n 
+0000004628 00000 n 
+0000004683 00000 n 
+0000004731 00000 n 
+0000021656 00000 n 
+0000021892 00000 n 
+0000022335 00000 n 
+trailer
+<</Size 15
+/Root 10 0 R
+/Info 1 0 R>>
+startxref
+22846
+%%EOF
