@@ -8,4 +8,4 @@ This is an OSINT challenge that involves the usage of exiftool, base64 decoding 
 
 ## Challenge Question
 
-Here we have a very elusive trophy. Something about this © is fishy.
+Here we have a very elusive trophy. My X told me that something about this © is fishy.
