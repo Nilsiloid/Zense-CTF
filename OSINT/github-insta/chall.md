@@ -1,6 +1,6 @@
 # Author
 
-[Nilay](https://github.com/Nilsiloid), [Vijay](https://github.com/vijay-jaisankar) and [Shreyas](https://github.com/Plague-Inc)
+[Nilay](https://github.com/Nilsiloid) and [Vijay](https://github.com/vijay-jaisankar)
 
 ## Description
 
@@ -8,4 +8,4 @@ This is an OSINT challenge that involves the usage of exiftool, base64 decoding 
 
 ## Challenge Question
 
-Can you find something out from what the same fishy individual screamed out into the void while they were haing BUFFET on their special day?
+Can you figure something out from what the same fishy individual screamed out into the void while they were haing BUFFET on their special day? it sounds like they wanted to GIT something.
