@@ -1,0 +1,1 @@
+ZenseCTF{nc_for_the_win}
