@@ -8,4 +8,4 @@ This is an OSINT challenge that involves the usage of exiftool, base64 decoding 
 
 ## Challenge Question
 
-Can you figure something out from what the same fishy individual screamed out into the void while they were haing BUFFET on their special day? it sounds like they wanted to GIT something.
+Can you figure something out from what the same fishy individual said to the internet while they were haing BUFFET on their special day? it sounds like they wanted to GIT something.
