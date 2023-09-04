@@ -1,18 +1,19 @@
 # Author
 
-[Shawn](https://github.com/shawnduong)
+[skat](https://shawnd.xyz/)
 
 ## Description
 
-This is a basic Web Exp challenge that gives the participant the experience of using POST HTTP method to retrieve data from a server.
+This challenge series introduces participants to digital forensics by immersing them in a full-scale digital forensic investigation of a breached server. Participants are challenged to investigate a cyberattack, starting at the network level and then moving on to analyze the disk dump and a memory sample.
 
 ## Requirements
 
-- knowledge of HTTP Methods.
+- Packet analysis software, such as Wireshark.
 
 ## Challenge Description
 
-We detected some suspicious activity on one of our servers. Attached is the pcap taken around the time of the suspected intrusion. Can you see if there was any suspicious activity and if so, can you find out how they got initial access?
-SHA-1: 1329ebdbab761da26c8dd1696ee00b81c910d206
+***forensics/network (easy)***
 
-Flag format : ZenseCTF{...}
+We detected some suspicious activity on one of our servers. Attached is the pcap taken around the time of the suspected intrusion. Can you see if there was any suspicious activity and if so, can you find out how they got initial access?
+
+[network.pcap](https://shawndxyz.sjc1.vultrobjects.com/ctf/2023.zensectf/network.pcap) (SHA-1: `1329ebdbab761da26c8dd1696ee00b81c910d206`)
