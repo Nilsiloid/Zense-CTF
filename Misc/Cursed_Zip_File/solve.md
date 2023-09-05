@@ -2,11 +2,9 @@
 
 This is a simple challenge regarding zipped files.
 
-```
-unzip <name>
-```
+The "Cursed" aspect of this challenge is that there are multiple nested `zip` directories, opening them up one by one leads to `flag.txt`, which incidentally is also a zip file!
 
-This gave us a out.txt file with all the strings data of the PDF. Lo and behold, in the very 4th line is present the thing we desire, the flag!!
+Hence, running `unzip` multiple times leads us to `flag.txt`, and `cat flag.txt` exposes the flag.
 
 The flag is:
 
