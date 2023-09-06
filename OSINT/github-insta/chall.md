@@ -1,10 +1,10 @@
-# Author
+# Author 
 
 [Nilay](https://github.com/Nilsiloid) and [Vijay](https://github.com/vijay-jaisankar)
 
 ## Description
 
-This is an OSINT challenge that involves the usage of exiftool, base64 decoding and social media exploration. It also introduces the participant to the concept of WayBack machine.
+To be updated
 
 ## Challenge Question
 
