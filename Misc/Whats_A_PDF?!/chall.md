@@ -8,7 +8,7 @@ This is a basic Miscellaneous challenge that gives the participant the experienc
 
 ## Requirements
 
-- knowledge of strings linux command.
+- knowledge of `strings` linux command.
 
 ## Challenge Description
 
